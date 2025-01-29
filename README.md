@@ -175,4 +175,3 @@ For any questions, feel free to open an **issue** or submit a **pull request**.
 
 🚀 **Now you're ready to build and scale your Gym API!**  
 🔗 **Don't forget to star ⭐ the repo if you like it!**
-```
