@@ -1,4 +1,3 @@
-```markdown
 # 🏋️ Gym API - Node.js REST API
 
 ![Node.js](https://img.shields.io/badge/Node.js-16.x-green?style=flat&logo=node.js)
