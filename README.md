@@ -176,30 +176,3 @@ For any questions, feel free to open an **issue** or submit a **pull request**.
 🚀 **Now you're ready to build and scale your Gym API!**  
 🔗 **Don't forget to star ⭐ the repo if you like it!**
 ```
-
----
-
-### **📌 How to Use the README**
-1️⃣ **Create the file** `README.md` in the root of your project.  
-2️⃣ **Copy and paste** the content above.  
-3️⃣ **Commit the changes** and push to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "📝 Added professional README with API documentation"
-   git push origin main
-   ```
-
----
-
-### **💡 Why is this README professional?**
-✅ **Well-structured** → Clear sections (Features, Installation, API Endpoints, etc.).  
-✅ **Markdown Styling** → Uses tables, emojis, and proper formatting.  
-✅ **Developer-Friendly** → Includes project structure, authentication details, and examples.  
-✅ **Future-Proof** → Includes **Next Steps** for future improvements.
-
----
-
-### 🚀 **Final Step: Check it on GitHub**
-After pushing your changes, go to [your repository](https://github.com/EEduardoSanandres/gym-api-node) and verify that **README.md** is formatted correctly.
-
-Does this meet your expectations? Let me know if you need any modifications! 😃
