@@ -1,0 +1,733 @@
+[
+    {
+      "name": "Barbell Overhead Press",
+      "muscleGroup": "Front Shoulders",
+      "equipment": "Barbell",
+      "steps": [
+        "Stand with your feet shoulder-width apart, holding a barbell at shoulder height with an overhand grip.",
+        "Engage your core and press the barbell overhead until your arms are fully extended.",
+        "Pause briefly at the top, then lower the barbell back to shoulder height under control."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Dumbbell Seated Overhead Press",
+      "muscleGroup": "Front Shoulders",
+      "equipment": "Dumbbells",
+      "steps": [
+        "Sit on a bench with back support, holding a dumbbell in each hand at shoulder height with your palms facing forward.",
+        "Press the dumbbells upward until your arms are fully extended above your head.",
+        "Lower the dumbbells back to shoulder height with control."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Dumbbell Incline Bench Press",
+      "muscleGroup": "Front Shoulders",
+      "equipment": "Dumbbells",
+      "steps": [
+        "Lie on an incline bench set at a 45-degree angle, holding a dumbbell in each hand with your arms fully extended above your chest.",
+        "Lower the dumbbells to the sides of your chest, keeping your elbows at a 90-degree angle.",
+        "Press the dumbbells back up to the starting position."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Cable Low Single Arm Lateral Raise",
+      "muscleGroup": "Front Shoulders",
+      "equipment": "Cable Machine",
+      "steps": [
+        "Stand sideways to a low pulley, holding the handle with the hand farthest from the machine.",
+        "With a slight bend in your elbow, raise your arm laterally until it is parallel to the floor.",
+        "Lower the handle back to the starting position with control."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Dumbbell Incline Chest Flys",
+      "muscleGroup": "Chest",
+      "equipment": "Dumbbells",
+      "steps": [
+        "Lay flat on an incline bench with your feet on the ground.",
+        "Hold a dumbbell in each hand above your chest with your arms extended.",
+        "Lower the dumbbells out to the sides in a wide arc until you feel a stretch in your chest.",
+        "Bring the dumbbells back together above your chest by reversing the motion."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Kettlebell Single Arm Press",
+      "muscleGroup": "Chest",
+      "equipment": "Kettlebell",
+      "steps": [
+        "Lie on your back on a flat bench, holding a kettlebell in one hand at chest level.",
+        "Press the kettlebell upward until your arm is fully extended.",
+        "Lower the kettlebell back to the starting position with control.",
+        "Repeat for the desired number of repetitions, then switch arms."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Band Single Arm Pec Fly",
+      "muscleGroup": "Chest",
+      "equipment": "Resistance Band",
+      "steps": [
+        "Anchor a resistance band at shoulder height.",
+        "Stand sideways to the anchor point, holding the band handle in the hand farthest from the anchor.",
+        "With a slight bend in your elbow, pull the band across your body until your hand is in front of your chest.",
+        "Slowly return to the starting position.",
+        "Repeat for the desired number of repetitions, then switch sides."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Chin Ups",
+      "muscleGroup": "Biceps",
+      "equipment": "Bodyweight",
+      "steps": [
+        "Grab a pull-up bar with an underhand grip, hands shoulder-width apart.",
+        "Hang fully extended.",
+        "Pull yourself up until your chin is above the bar.",
+        "Lower yourself back to the starting position with control."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Cable Bayesian Curl",
+      "muscleGroup": "Biceps",
+      "equipment": "Cable Machine",
+      "steps": [
+        "Stand facing away from a low pulley cable machine, holding a handle in one hand.",
+        "Step forward to create tension, allowing your arm to extend behind you.",
+        "Curl the handle towards your shoulder.",
+        "Slowly extend your arm back to the starting position."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Dumbbell Curl",
+      "muscleGroup": "Biceps",
+      "equipment": "Dumbbells",
+      "steps": [
+        "Stand with a dumbbell in each hand, arms fully extended.",
+        "Curl the weights while contracting your biceps.",
+        "Continue to raise the weights until your biceps are fully contracted.",
+        "Lower the dumbbells back to the starting position."
+      ],
+      "difficulty": "Beginner",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Dumbbell Hammer Curl",
+      "muscleGroup": "Biceps",
+      "equipment": "Dumbbells",
+      "steps": [
+        "Stand with a dumbbell in each hand, arms fully extended, palms facing your torso.",
+        "Curl the weights while keeping your palms facing inward.",
+        "Continue to raise the weights until your biceps are fully contracted.",
+        "Lower the dumbbells back to the starting position."
+      ],
+      "difficulty": "Beginner",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Dumbbell Wrist Curl",
+      "muscleGroup": "Forearms",
+      "equipment": "Dumbbell",
+      "steps": [
+        "Sit on a bench with your forearm resting on your thigh or a flat surface, palm facing upward.",
+        "Hold a dumbbell in your hand, allowing it to roll down to your fingers.",
+        "Curl the dumbbell upward by flexing your wrist.",
+        "Slowly lower the dumbbell back to the starting position."
+      ],
+      "difficulty": "Beginner",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Dumbbell Wrist Extension",
+      "muscleGroup": "Forearms",
+      "equipment": "Dumbbell",
+      "steps": [
+        "Sit on a bench with your forearm resting on your thigh or a flat surface, palm facing downward.",
+        "Hold a dumbbell in your hand, allowing your wrist to flex downward.",
+        "Raise the dumbbell by extending your wrist upward.",
+        "Slowly lower the dumbbell back to the starting position."
+      ],
+      "difficulty": "Beginner",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Cable Wrist Curl",
+      "muscleGroup": "Forearms",
+      "equipment": "Cable Machine",
+      "steps": [
+        "Sit or stand in front of a low pulley cable machine, holding the handle with your palm facing upward.",
+        "Rest your forearm on your thigh or a flat surface, allowing your wrist to extend downward.",
+        "Curl the handle upward by flexing your wrist.",
+        "Slowly return to the starting position."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Kettlebell Wrist Curl",
+      "muscleGroup": "Forearms",
+      "equipment": "Kettlebell",
+      "steps": [
+        "Stand upright, holding a kettlebell in each hand with your arms extended by your sides, palms facing inward.",
+        "Flex your wrists to curl the kettlebells upward toward your forearms.",
+        "Slowly lower the kettlebells back to the starting position."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Landmine Oblique Twist",
+      "muscleGroup": "Obliques",
+      "equipment": "Barbell",
+      "steps": [
+        "Place one end of a barbell into a landmine attachment or securely in a corner.",
+        "Stand with feet shoulder-width apart, holding the other end of the barbell with both hands.",
+        "With arms extended, rotate your torso to one side, lowering the barbell towards your hip.",
+        "Engage your obliques to rotate the barbell to the opposite side, following a controlled arc.",
+        "Repeat the movement, alternating sides."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Oblique Crunch",
+      "muscleGroup": "Obliques",
+      "equipment": "Bodyweight",
+      "steps": [
+        "Lie on your side with knees bent and stacked.",
+        "Place your hands behind your head, elbows flared out.",
+        "Engage your obliques to lift your upper body towards your hips.",
+        "Pause briefly at the top of the movement.",
+        "Lower back down with control.",
+        "Repeat for the desired number of repetitions, then switch sides."
+      ],
+      "difficulty": "Beginner",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Cable Oblique Pushdown",
+      "muscleGroup": "Obliques",
+      "equipment": "Cable Machine",
+      "steps": [
+        "Set the cable just over your head and attach a handle.",
+        "Stand sideways to the machine, grasping the handle with the hand farthest from the machine.",
+        "Push the handle down until your elbow is extended, engaging your obliques.",
+        "Slowly return to the starting position.",
+        "Repeat for the desired number of repetitions, then switch sides."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Crunches",
+      "muscleGroup": "Abdominals",
+      "equipment": "Bodyweight",
+      "steps": [
+        "Lie on your back with your knees bent and feet flat on the floor.",
+        "Place your hands behind your head, elbows pointing outward.",
+        "Engage your core by drawing your belly button toward your spine.",
+        "Lift your head and shoulders off the floor, curling towards your knees.",
+        "Pause briefly at the top, then lower back down with control."
+      ],
+      "difficulty": "Beginner",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Ring Standing Roll Out",
+      "muscleGroup": "Abdominals",
+      "equipment": "Gymnastic Rings",
+      "steps": [
+        "Stand facing the rings, grasping them with your arms extended and shoulders away from your ears.",
+        "Engage your core and roll forward onto your toes, extending your body while keeping arms straight.",
+        "Roll out as far as you can while maintaining control and core engagement.",
+        "Return to the starting position by reversing the motion."
+      ],
+      "difficulty": "Advanced",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Band Crunch",
+      "muscleGroup": "Abdominals",
+      "equipment": "Resistance Band",
+      "steps": [
+        "Anchor a resistance band above head height.",
+        "Kneel down, facing away from the anchor point, holding the band handles at shoulder level.",
+        "Push your hips back, flexing at the spine to perform a crunch motion.",
+        "Squeeze your abs at the bottom of the movement.",
+        "Extend at the hips and spine to return to the starting position."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Barbell Squat",
+      "muscleGroup": "Quads",
+      "equipment": "Barbell",
+      "steps": [
+        "Stand with your feet shoulder-width apart.",
+        "Place the barbell across your upper back, gripping it with both hands.",
+        "Maintain the natural arch in your back and engage your core.",
+        "Lower your body by bending your knees and hips, keeping your chest up and back straight.",
+        "Descend until your thighs are parallel to the floor.",
+        "Push through your heels to return to the starting position."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Smith Machine Squat",
+      "muscleGroup": "Quads",
+      "equipment": "Smith Machine",
+      "steps": [
+        "Stand with your feet shoulder-width apart under the bar of a Smith machine.",
+        "Place the bar across your upper back and shoulders, gripping it with both hands.",
+        "Maintain the natural arch in your back and engage your core.",
+        "Lower your body by bending your knees and hips, keeping your chest up and back straight.",
+        "Descend until your thighs are parallel to the floor.",
+        "Push through your heels to return to the starting position."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Kettlebell Step-Up",
+      "muscleGroup": "Quads",
+      "equipment": "Kettlebell",
+      "steps": [
+        "Stand up straight facing a bench or step.",
+        "Hold a kettlebell in one hand, letting it hang by your side.",
+        "Place one foot onto the bench, ensuring your entire foot is on the surface.",
+        "Push through the heel of the foot on the bench to lift your body upward.",
+        "Bring your trailing leg up to the bench, standing tall.",
+        "Step back down with the trailing leg first, followed by the lead leg.",
+        "Repeat for the desired number of repetitions, then switch sides."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Barbell Calf Raises",
+      "muscleGroup": "Calves",
+      "equipment": "Barbell",
+      "steps": [
+        "Place the barbell on your upper back, gripping it securely with both hands.",
+        "Stand with your feet flat on the ground, shoulder-width apart.",
+        "Extend your heels upwards, lifting them off the ground while keeping your knees stationary.",
+        "Pause briefly at the top of the movement.",
+        "Lower your heels back to the starting position in a controlled manner."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Dumbbell Calf Raises",
+      "muscleGroup": "Calves",
+      "equipment": "Dumbbells",
+      "steps": [
+        "Stand tall with a dumbbell in each hand, arms fully extended by your sides.",
+        "Position the balls of your feet on top of a weight plate or elevated surface to extend the range of motion.",
+        "Raise your heels upwards, lifting them off the ground while keeping your knees stationary.",
+        "Pause briefly at the top of the movement.",
+        "Lower your heels back to the starting position in a controlled manner."
+      ],
+      "difficulty": "Beginner",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Kettlebell Calf Raises",
+      "muscleGroup": "Calves",
+      "equipment": "Kettlebells",
+      "steps": [
+        "Stand straight with a kettlebell in each hand, arms fully extended by your sides.",
+        "Raise your heels upwards, lifting them off the ground while keeping your knees stationary.",
+        "Pause briefly at the top of the movement.",
+        "Lower your heels back to the starting position in a controlled manner."
+      ],
+      "difficulty": "Beginner",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "TRX Calf Raises",
+      "muscleGroup": "Calves",
+      "equipment": "TRX Straps",
+      "steps": [
+        "Hold the TRX straps under your arms, with the handles positioned in your armpits.",
+        "Lean forward against the straps, keeping your body straight.",
+        "Initiate the calf raise by pushing through the balls of your feet, lifting your heels upwards.",
+        "Pause briefly at the top of the movement.",
+        "Lower your heels back to the starting position in a controlled manner."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Pull-Up",
+      "muscleGroup": "Lats",
+      "equipment": "Pull-Up Bar",
+      "steps": [
+        "Grasp the pull-up bar with an overhand grip, hands slightly wider than shoulder-width apart.",
+        "Hang with your arms fully extended and your legs slightly forward, engaging your core.",
+        "Pull your body upward by driving your elbows down and back, bringing your chin above the bar.",
+        "Pause briefly at the top, then lower yourself back to the starting position with control."
+      ],
+      "difficulty": "Advanced",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Lat Pulldown",
+      "muscleGroup": "Lats",
+      "equipment": "Lat Pulldown Machine",
+      "steps": [
+        "Adjust the machine to fit your body and select an appropriate weight.",
+        "Sit down and grasp the bar with an overhand grip, hands slightly wider than shoulder-width apart.",
+        "Lean back slightly, keeping your back straight and chest up.",
+        "Pull the bar down towards your upper chest by driving your elbows down and back.",
+        "Pause briefly at the bottom, then slowly return the bar to the starting position."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Dumbbell Pullover",
+      "muscleGroup": "Lats",
+      "equipment": "Dumbbell",
+      "steps": [
+        "Lie on a bench with your upper back and shoulders supported, feet flat on the floor.",
+        "Hold a dumbbell with both hands above your chest, arms slightly bent.",
+        "Lower the dumbbell behind your head in an arc, keeping your elbows slightly bent.",
+        "Stretch as far as comfortable, then pull the dumbbell back to the starting position."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Single-Arm Dumbbell Row",
+      "muscleGroup": "Lats",
+      "equipment": "Dumbbell",
+      "steps": [
+        "Place one knee and the same-side hand on a bench for support, with your other foot flat on the floor.",
+        "Hold a dumbbell in your free hand, arm extended toward the floor.",
+        "Pull the dumbbell upward toward your hip, keeping your elbow close to your body.",
+        "Pause at the top, then lower the dumbbell back to the starting position.",
+        "Repeat for the desired number of repetitions, then switch sides."
+      ],
+      "difficulty": "Beginner",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Dumbbell Silverback Shrug",
+      "muscleGroup": "Middle Trapezius",
+      "equipment": "Dumbbells",
+      "steps": [
+        "Stand with your feet shoulder-width apart, holding a dumbbell in each hand in front of you, just past shoulder width.",
+        "Bend forward at the hips with a slight bend in your knees, keeping your back flat.",
+        "Allow your arms to hang straight down, palms facing each other.",
+        "Shrug your shoulders upward toward your ears, squeezing your shoulder blades together.",
+        "Hold briefly at the top, then lower your shoulders back to the starting position."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Dumbbell Row Bilateral",
+      "muscleGroup": "Middle Trapezius",
+      "equipment": "Dumbbells",
+      "steps": [
+        "Grab both dumbbells and hinge forward at the hips, keeping a flat back.",
+        "Position your torso as close to parallel with the ground as comfortable.",
+        "Let your arms hang straight down, palms facing each other.",
+        "Pull both dumbbells upward toward your torso, squeezing your shoulder blades together.",
+        "Pause briefly at the top, then lower the dumbbells back to the starting position."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Kettlebell Silverback Shrug",
+      "muscleGroup": "Middle Trapezius",
+      "equipment": "Kettlebells",
+      "steps": [
+        "Stand with feet hip-width apart, holding a kettlebell in each hand at your sides.",
+        "Lean forward at the hips, keeping your back flat and arms straight.",
+        "Lift your shoulders backward, squeezing your shoulder blades together.",
+        "Hold briefly at the top, then return to the starting position."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Back Extension",
+      "muscleGroup": "Lower Back",
+      "equipment": "Roman Chair",
+      "steps": [
+        "Position yourself on the Roman chair with your hips supported and your feet secured.",
+        "Cross your arms over your chest or place your hands behind your head.",
+        "Bend forward at the waist, lowering your upper body towards the floor while keeping your back straight.",
+        "Raise your upper body back to the starting position by contracting your lower back muscles.",
+        "Repeat for the desired number of repetitions."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Superman",
+      "muscleGroup": "Lower Back",
+      "equipment": "Bodyweight",
+      "steps": [
+        "Lie face down on the floor with your arms extended in front of you and your legs straight.",
+        "Simultaneously raise your arms, legs, and chest off the floor, contracting your lower back muscles.",
+        "Hold the position briefly.",
+        "Lower your arms, legs, and chest back to the starting position.",
+        "Repeat for the desired number of repetitions."
+      ],
+      "difficulty": "Beginner",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Dumbbell Romanian Deadlift",
+      "muscleGroup": "Lower Back",
+      "equipment": "Dumbbells",
+      "steps": [
+        "Stand with your feet shoulder-width apart, holding a dumbbell in each hand in front of your thighs.",
+        "Keep your knees slightly bent and your back straight.",
+        "Hinge at the hips to lower the dumbbells along the front of your legs, going as low as your flexibility allows.",
+        "Contract your lower back and hamstrings to raise your torso back to the starting position.",
+        "Repeat for the desired number of repetitions."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Dumbbell Rear Delt Fly",
+      "muscleGroup": "Rear Shoulders",
+      "equipment": "Dumbbells",
+      "steps": [
+        "Stand with your feet shoulder-width apart, holding a dumbbell in each hand.",
+        "Bend your knees slightly and hinge forward at the hips, keeping your back straight.",
+        "Let the dumbbells hang down beneath you with your palms facing each other.",
+        "With a slight bend in your elbows, raise the dumbbells out to the sides until your arms are parallel to the floor.",
+        "Squeeze your shoulder blades together at the top of the movement.",
+        "Lower the dumbbells back to the starting position in a controlled manner."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Band Rear Delt Fly",
+      "muscleGroup": "Rear Shoulders",
+      "equipment": "Resistance Bands",
+      "steps": [
+        "Anchor two resistance bands at a high point and stand between them with your feet shoulder-width apart.",
+        "Grasp the handles with your arms extended in front of you at shoulder height, palms facing each other.",
+        "With a slight bend in your elbows, pull the bands outward and backward, squeezing your shoulder blades together.",
+        "Continue until your arms are extended out to your sides.",
+        "Return to the starting position in a controlled manner."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Kettlebell Rear Delt Row",
+      "muscleGroup": "Rear Shoulders",
+      "equipment": "Kettlebell",
+      "steps": [
+        "Stand with your feet shoulder-width apart, holding a kettlebell with both hands in front of your thighs.",
+        "Bend forward at the hips, bringing your torso close to parallel with the ground, keeping your back straight.",
+        "Let the kettlebell hang straight down from your shoulders.",
+        "Pull the kettlebell towards your chest, keeping your elbows flared out to the sides.",
+        "Squeeze your shoulder blades together at the top of the movement.",
+        "Lower the kettlebell back to the starting position in a controlled manner."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Tricep Dips",
+      "muscleGroup": "Triceps",
+      "equipment": "Parallel Bars",
+      "steps": [
+        "Hold your body with arms locked above the equipment.",
+        "Lower your body slowly while leaning forward, flaring out your elbows.",
+        "Once your shoulders are below your elbows, push yourself back to the starting position using your triceps."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Overhead Dumbbell Extension",
+      "muscleGroup": "Triceps",
+      "equipment": "Dumbbell",
+      "steps": [
+        "Sit on a bench and hold a dumbbell with both hands.",
+        "Raise the dumbbell overhead at arm's length, holding the weight up with the palms of your hands.",
+        "Lower the dumbbell behind your head by breaking at the elbows.",
+        "Extend your elbows and flex your triceps at the top."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Tricep Pushdown",
+      "muscleGroup": "Triceps",
+      "equipment": "Cable Machine",
+      "steps": [
+        "Place the band just above eye level.",
+        "Take a few steps away until the band is taut.",
+        "Push your hips back slightly.",
+        "Extend and flex at the elbows."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Barbell Shrug",
+      "muscleGroup": "Trapezius",
+      "equipment": "Barbell",
+      "steps": [
+        "Stand with your feet shoulder-width apart, holding a barbell with both hands in front of you, just past shoulder width.",
+        "Bend forward slightly at the hips, keeping your back straight.",
+        "Elevate your shoulders as high as possible towards your ears, contracting the trapezius muscles.",
+        "Hold the contraction briefly at the top.",
+        "Lower your shoulders back to the starting position in a controlled manner."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Dumbbell Shrug",
+      "muscleGroup": "Trapezius",
+      "equipment": "Dumbbells",
+      "steps": [
+        "Stand upright with a dumbbell in each hand, arms fully extended by your sides, palms facing your torso.",
+        "Keep your back straight and your head facing forward.",
+        "Elevate your shoulders as high as possible towards your ears, contracting the trapezius muscles.",
+        "Hold the contraction briefly at the top.",
+        "Lower your shoulders back to the starting position in a controlled manner."
+      ],
+      "difficulty": "Beginner",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    },
+    {
+      "name": "Cable Shrug",
+      "muscleGroup": "Trapezius",
+      "equipment": "Cable Machine",
+      "steps": [
+        "Stand facing a cable machine with the pulley set to the lowest position, holding the bar attachment with both hands in front of you.",
+        "Keep your arms fully extended and your back straight.",
+        "Elevate your shoulders as high as possible towards your ears, contracting the trapezius muscles.",
+        "Hold the contraction briefly at the top.",
+        "Lower your shoulders back to the starting position in a controlled manner."
+      ],
+      "difficulty": "Intermediate",
+      "videoUrl": null,
+      "imageUrl": null,
+      "gifUrl": null
+    }
+  ]
