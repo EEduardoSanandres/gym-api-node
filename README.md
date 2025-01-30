@@ -16,7 +16,7 @@ Gym API is a RESTful API built with **Node.js, Express, and MongoDB** to manage 
 ✅ **Supports weight units (kg/lb)**  
 ✅ **Swagger documentation**  
 ✅ **MongoDB integration**  
-+ ✅ **Preloaded exercise database (auto-seeding on first run)**  
+✅ **Preloaded exercise database (auto-seeding on first run)**  
 ---
 
 ## 🚀 Installation
@@ -160,8 +160,8 @@ This API uses **JWT (JSON Web Token)** for authentication.
 - **Swagger** - API documentation
 - **bcryptjs** - Password encryption
 - **dotenv** - Environment variables management
-+ - **JSON data files** - Preloaded exercises in `data/exercises.json`
-+ - **Seeding scripts** - Auto-inserts exercises into MongoDB on first run
+- **JSON data files** - Preloaded exercises in `data/exercises.json`
+- **Seeding scripts** - Auto-inserts exercises into MongoDB on first run
 ---
 
 ## 🤝 Contributing
