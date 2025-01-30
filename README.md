@@ -16,7 +16,7 @@ Gym API is a RESTful API built with **Node.js, Express, and MongoDB** to manage 
 ✅ **Supports weight units (kg/lb)**  
 ✅ **Swagger documentation**  
 ✅ **MongoDB integration**  
-
++ ✅ **Preloaded exercise database (auto-seeding on first run)**  
 ---
 
 ## 🚀 Installation
@@ -40,7 +40,19 @@ JWT_SECRET=supersecretkey123
 PORT=5000
 ```
 
-### 4️⃣ **Start the server**
+### 4️⃣ **Seed the database (Exercises Data)**
+The API includes a predefined set of exercises stored in data/exercises.json.
+These exercises will be automatically inserted into the database when the server starts if the collection is empty.
+If you need to manually seed the database, run:
+```bash
+node scripts/seedDatabase.js
+```
+To reset the database and reload the initial exercises, you can use:
+```bash
+npm run drop:database && node scripts/seedDatabase.js
+```
+
+### 5️⃣ **Start the server**
 ```bash
 npm run dev
 ```
@@ -126,11 +138,13 @@ This API uses **JWT (JSON Web Token)** for authentication.
 
 ```
 📂 gym-api-node
- ├── 📂 config/          # Configuration files (DB, Swagger)
- ├── 📂 controllers/     # Business logic
- ├── 📂 middleware/      # Authentication middleware
+ ├── 📂 config/         # Configuration files (DB, Swagger)
+ ├── 📂 controllers/    # Business logic
+ ├── 📂 middleware/     # Authentication middleware
  ├── 📂 models/         # Mongoose schemas
  ├── 📂 routes/         # Express routes
+ ├── 📂 data/           # Static exercise data in JSON format
+ ├── 📂 scripts/        # Utility scripts
  ├── .env               # Environment variables (ignored)
  ├── .gitignore         # Ignored files
  ├── package.json       # Dependencies
@@ -146,7 +160,8 @@ This API uses **JWT (JSON Web Token)** for authentication.
 - **Swagger** - API documentation
 - **bcryptjs** - Password encryption
 - **dotenv** - Environment variables management
-
++ - **JSON data files** - Preloaded exercises in `data/exercises.json`
++ - **Seeding scripts** - Auto-inserts exercises into MongoDB on first run
 ---
 
 ## 🤝 Contributing
