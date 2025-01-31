@@ -32,9 +32,9 @@ exports.createExercise = async (req, res) => {
       equipment,
       steps,
       difficulty,
-      videoUrl: videoUrl || null, // Set null if not provided
-      imageUrl: imageUrl || null, // Set null if not provided
-      gifUrl: gifUrl || null, // Set null if not provided
+      videoUrl: videoUrl || null, 
+      imageUrl: imageUrl || null, 
+      gifUrl: gifUrl || null, 
     });
 
     await newExercise.save();
@@ -61,6 +61,37 @@ exports.deleteExercise = async (req, res) => {
     const exercise = await Exercise.findByIdAndDelete(req.params.id);
     if (!exercise) return res.status(404).json({ message: "Exercise not found" });
     res.json({ message: "Exercise successfully deleted" });
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+};
+
+// Update an existing exercise
+exports.updateExercise = async (req, res) => {
+  try {
+    const exercise = await Exercise.findByIdAndUpdate(req.params.id, req.body, { new: true });
+    if (!exercise) return res.status(404).json({ message: "Exercise not found" });
+    res.json(exercise);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+};
+
+// Get exercises by muscle group
+exports.getExercisesByMuscleGroup = async (req, res) => {
+  try {
+    const exercises = await Exercise.find({ muscleGroup: req.params.muscleGroup });
+    res.json(exercises);
+  } catch (error) {
+    res.status(500).json({ message: error.message });
+  }
+};
+
+// Get exercises by difficulty level
+exports.getExercisesByDifficulty = async (req, res) => {
+  try {
+    const exercises = await Exercise.find({ difficulty: req.params.difficulty });
+    res.json(exercises);
   } catch (error) {
     res.status(500).json({ message: error.message });
   }
