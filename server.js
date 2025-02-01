@@ -17,6 +17,15 @@ app.use(express.json());
 app.use("/api/auth", require("./routes/authRoutes"));
 app.use("/api/exercises", require("./routes/exerciseRoutes"));
 app.use("/api/workout-plans", require("./routes/workoutPlanRoutes"));
+app.use("/api/goals", require("./routes/goalRoutes")); 
+app.use("/api/achievements", require("./routes/achievementRoutes")); 
+app.use("/api/meals", require("./routes/mealRoutes")); 
+app.use("/api/measurements", require("./routes/measurementRoutes")); 
+app.use("/api/progress", require("./routes/progressRoutes")); 
+app.use("/api/routines", require("./routes/routineRoutes")); 
+app.use("/api/workout-logs", require("./routes/workoutLogRoutes")); 
+
+swaggerDocs(app); // Asegúrate de llamar a esta función para activar Swagger
 
 // Función para inicializar la base de datos y luego iniciar el servidor
 const startServer = async () => {
